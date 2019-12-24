@@ -14,7 +14,7 @@ public class BaiTap1 {
 	 */
 	
 	/**
-	 * Đây là hàm random 1 số bất kỳ
+	 * Đây là hàm random số bất kỳ
 	 * @param gioiHanMax là giới hạn cao nhất + 1
 	 * @return 1 số bất kỳ từ 0 --> gioiHanMax
 	 */
