@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class BaiTap2 {
 
 	/**
-	 * Đây là hàm tìm số âm trong 1 chuỗi bất kỳ
+	 * Đây là hàm tìm số âm trong 1 chuỗi bất kì
 	 * Hàm này kiểm tra các kí tự(bắt đầu từ 1) có phải là số ko
 	 * Nếu là số thì kiểm tra kí tự trước nó có phải dấu âm hay ko
 	 * Nếu là số âm thì nó típ tục kiểm tra các ký tự phía sau có phải là số ko

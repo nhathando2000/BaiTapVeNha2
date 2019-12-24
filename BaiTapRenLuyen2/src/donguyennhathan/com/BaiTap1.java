@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class BaiTap1 {
 
 	/*
-	 * Viết chương trình game đoán số từ 0 --> 5
+	 * Viết chương trình game đoán số từ 0-->5
 	 * Khởi tạo ban đầu người chơi có 5đ
 	 * Mỗi lần đoán đúng +1đ và đoán sai -1đ
 	 * Người chơi tích lũy đủ 10đ thì thắng

@@ -65,8 +65,8 @@ public class BaiTap4 {
 		System.out.println("Số chữ số: "+soChuSo);
 		System.out.println("Số Ký tự đặc biệt: "+soKyTuDacBiet);
 		System.out.println("Số khoảng trắng: "+soKhoangTrang);
-		System.out.println("Số nguyên âm: "+soNguyenAm);
-		System.out.println("Số phụ âm: "+soPhuAm);
+		System.out.println("Số chữ nguyên âm: "+soNguyenAm);
+		System.out.println("Số chữ phụ âm: "+soPhuAm);
 	}
 
 }

@@ -33,7 +33,6 @@ public class BaiTap3 {
 			System.out.println("Tuổi của bạn là: "+tuoi);
 			
 		} catch (ParseException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
